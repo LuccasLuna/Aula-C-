@@ -1,0 +1,10 @@
+C:\Users\lab-mma\Documents\traue\Calculadora de viagem\calculadora de viagem\calculadora de viagem\bin\Debug\calculadora de viagem.exe.config
+C:\Users\lab-mma\Documents\traue\Calculadora de viagem\calculadora de viagem\calculadora de viagem\bin\Debug\calculadora de viagem.exe
+C:\Users\lab-mma\Documents\traue\Calculadora de viagem\calculadora de viagem\calculadora de viagem\bin\Debug\calculadora de viagem.pdb
+C:\Users\lab-mma\Documents\traue\Calculadora de viagem\calculadora de viagem\calculadora de viagem\obj\Debug\calculadora de viagem.csproj.AssemblyReference.cache
+C:\Users\lab-mma\Documents\traue\Calculadora de viagem\calculadora de viagem\calculadora de viagem\obj\Debug\calculadora_de_viagem.FormPrincipal.resources
+C:\Users\lab-mma\Documents\traue\Calculadora de viagem\calculadora de viagem\calculadora de viagem\obj\Debug\calculadora_de_viagem.Properties.Resources.resources
+C:\Users\lab-mma\Documents\traue\Calculadora de viagem\calculadora de viagem\calculadora de viagem\obj\Debug\calculadora de viagem.csproj.GenerateResource.cache
+C:\Users\lab-mma\Documents\traue\Calculadora de viagem\calculadora de viagem\calculadora de viagem\obj\Debug\calculadora de viagem.csproj.CoreCompileInputs.cache
+C:\Users\lab-mma\Documents\traue\Calculadora de viagem\calculadora de viagem\calculadora de viagem\obj\Debug\calculadora de viagem.exe
+C:\Users\lab-mma\Documents\traue\Calculadora de viagem\calculadora de viagem\calculadora de viagem\obj\Debug\calculadora de viagem.pdb

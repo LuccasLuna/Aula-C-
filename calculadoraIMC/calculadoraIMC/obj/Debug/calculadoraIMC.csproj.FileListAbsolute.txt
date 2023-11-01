@@ -1,0 +1,9 @@
+C:\Users\lab-mma\Documents\traue\calculadoraIMC\calculadoraIMC\bin\Debug\calculadoraIMC.exe.config
+C:\Users\lab-mma\Documents\traue\calculadoraIMC\calculadoraIMC\bin\Debug\calculadoraIMC.exe
+C:\Users\lab-mma\Documents\traue\calculadoraIMC\calculadoraIMC\bin\Debug\calculadoraIMC.pdb
+C:\Users\lab-mma\Documents\traue\calculadoraIMC\calculadoraIMC\obj\Debug\calculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\lab-mma\Documents\traue\calculadoraIMC\calculadoraIMC\obj\Debug\calculadoraIMC.Properties.Resources.resources
+C:\Users\lab-mma\Documents\traue\calculadoraIMC\calculadoraIMC\obj\Debug\calculadoraIMC.csproj.GenerateResource.cache
+C:\Users\lab-mma\Documents\traue\calculadoraIMC\calculadoraIMC\obj\Debug\calculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\lab-mma\Documents\traue\calculadoraIMC\calculadoraIMC\obj\Debug\calculadoraIMC.exe
+C:\Users\lab-mma\Documents\traue\calculadoraIMC\calculadoraIMC\obj\Debug\calculadoraIMC.pdb
