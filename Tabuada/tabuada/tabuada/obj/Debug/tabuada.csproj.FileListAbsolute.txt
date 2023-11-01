@@ -1,0 +1,10 @@
+C:\Users\lab-mma\Documents\traue\Tabuada\tabuada\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\lab-mma\Documents\traue\Tabuada\tabuada\tabuada\bin\Debug\tabuada.exe
+C:\Users\lab-mma\Documents\traue\Tabuada\tabuada\tabuada\bin\Debug\tabuada.pdb
+C:\Users\lab-mma\Documents\traue\Tabuada\tabuada\tabuada\obj\Debug\tabuada.csproj.AssemblyReference.cache
+C:\Users\lab-mma\Documents\traue\Tabuada\tabuada\tabuada\obj\Debug\tabuada.FrmTabuada.resources
+C:\Users\lab-mma\Documents\traue\Tabuada\tabuada\tabuada\obj\Debug\tabuada.Properties.Resources.resources
+C:\Users\lab-mma\Documents\traue\Tabuada\tabuada\tabuada\obj\Debug\tabuada.csproj.GenerateResource.cache
+C:\Users\lab-mma\Documents\traue\Tabuada\tabuada\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\lab-mma\Documents\traue\Tabuada\tabuada\tabuada\obj\Debug\tabuada.exe
+C:\Users\lab-mma\Documents\traue\Tabuada\tabuada\tabuada\obj\Debug\tabuada.pdb
