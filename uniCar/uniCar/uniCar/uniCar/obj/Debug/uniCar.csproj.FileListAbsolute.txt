@@ -1,0 +1,11 @@
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\bin\Debug\uniCar.exe.config
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\bin\Debug\uniCar.exe
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\bin\Debug\uniCar.pdb
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\obj\Debug\uniCar.csproj.AssemblyReference.cache
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\obj\Debug\uniCar.Form1.resources
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\obj\Debug\uniCar.Properties.Resources.resources
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\obj\Debug\uniCar.csproj.GenerateResource.cache
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\obj\Debug\uniCar.csproj.CoreCompileInputs.cache
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\obj\Debug\uniCar.exe
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\obj\Debug\uniCar.pdb
+C:\Users\lab-mma\Documents\traue\uniCar\uniCar\uniCar\obj\Debug\uniCar.FrmCadastroCliente.resources
